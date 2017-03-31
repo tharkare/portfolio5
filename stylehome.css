@@ -1,0 +1,46 @@
+h1{
+    font-size: 60px;
+    padding-left: 700px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-color: #ffb3b3;
+    border: 30px;
+    margin: 0px;
+}
+
+nav{
+    padding-left: 550px; 
+    padding-bottom: 50px;
+    background-color: #ffb3b3;
+    border: 30px;
+}
+
+h2{
+    padding-left: 70px;
+    font-size: 40px;
+}
+
+p{
+    font-size: 16px;
+    background-color: #ffffcc;
+    border: 30px #ffffcc;
+    margin: 70px;
+    padding: 30px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    height: 100px;
+    padding-left: 650px;
+    padding-top: 50px;
+}
+
+section{
+    padding-left: 70px;
+}
+
+section2{
+    color: white;
+    background-color: white;
+}
