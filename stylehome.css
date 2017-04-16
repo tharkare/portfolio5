@@ -1,6 +1,6 @@
 h1{
     font-size: 60px;
-    padding-left: 700px;
+    padding-left: 60%;
     padding-top: 20px;
     padding-bottom: 30px;
     background-color: #ffb3b3;
@@ -9,7 +9,7 @@ h1{
 }
 
 nav{
-    padding-left: 550px; 
+    padding-left: 50%; 
     padding-bottom: 50px;
     background-color: #ffb3b3;
     border: 30px;
@@ -32,7 +32,7 @@ footer{
     color: white;
     background-color: black;
     height: 100px;
-    padding-left: 650px;
+    padding-left: 50%;
     padding-top: 50px;
 }
 
@@ -43,4 +43,32 @@ section{
 section2{
     color: white;
     background-color: white;
+}
+
+a:link{
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a.active{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+pic 1.jpg:hover{
+    background: #ffffcc;
 }
